@@ -89,3 +89,6 @@ celerybeat-schedule
 .env
 .env.*
 .venv
+
+# exclude raw data
+books_data/
